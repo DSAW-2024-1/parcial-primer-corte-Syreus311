@@ -35,5 +35,6 @@ Requerimientos:
 | Funcionalidad              | 1.5     |
 | Despliegue en Github Pages | 0.5     |
 
-##NOMBRE: KATHERIN JULIANAM MORENO CARVAJAL
-##LINK:
+##NOMBRE: KATHERIN JULIANA MORENO CARVAJAL
+
+##LINK: https://dsaw-2024-1.github.io/parcial-primer-corte-Syreus311/
